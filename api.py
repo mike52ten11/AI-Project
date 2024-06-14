@@ -14,7 +14,7 @@ print(response)
 # 單個純文字
 # import json
 # import requests
-# API_KEY = 'AIzaSyAhEe_ErZpxOw6bakv_EfmxIL6B2_HHJdI'
+# API_KEY = ''
 # url = f'https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key={API_KEY}'
 # headers = {'Content-Type': 'application/json'}
 # data = {

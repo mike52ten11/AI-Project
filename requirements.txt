@@ -1,0 +1,4 @@
+sounddevice
+google-generativeai
+scipy
+elevenlabs
